@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class EjercicioArrays : MonoBehaviour
 {
+    public int[] numeros;
+
     // Start is called before the first frame update
     void Start()
     {
